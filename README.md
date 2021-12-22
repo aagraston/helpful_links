@@ -14,5 +14,5 @@ Just a pile of links I've found to be useful in my web dev journey
 
 ## Misc Tools
 
--[Pomodoro Timer](https://tomato-timer.com/#)
+- [Pomodoro Timer](https://tomato-timer.com/#)
 
