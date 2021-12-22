@@ -12,3 +12,7 @@ Just a pile of links I've found to be useful in my web dev journey
 - [the odin project](https://www.theodinproject.com/)
 - [treehouse](https://teamtreehouse.com/)
 
+## Misc Tools
+
+-[Pomodoro Timer](https://tomato-timer.com/#)
+
