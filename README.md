@@ -14,6 +14,7 @@ Just a pile of links I've found to be useful in my web dev journey
 ## Know your Tools
 
 - [CLI Git](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
+- [Subfolder to GitHub Pages](gist.github.com/cobyism/4730490)
 
 ## Cheat Sheets
 
