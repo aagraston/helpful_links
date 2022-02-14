@@ -26,7 +26,7 @@ Just a pile of links I've found to be useful in my web dev journey
 
 ## Editor Related
 
--[Prettier Setup](https://github.com/prettier/prettier-vscode)
+- [Prettier Setup](https://github.com/prettier/prettier-vscode)
 
 
 
