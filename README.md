@@ -24,5 +24,10 @@ Just a pile of links I've found to be useful in my web dev journey
 
 - [Pomodoro Timer](https://tomato-timer.com/#)
 
+## Editor Related
+
+-[Prettier Setup](https://github.com/prettier/prettier-vscode)
+
+
 
 
