@@ -28,6 +28,10 @@ Just a pile of links I've found to be useful in my web dev journey
 
 - [Prettier Setup](https://github.com/prettier/prettier-vscode)
 
+## maybe not helpful
+
+- [I lovw JS](https://youtube.com/watch?v=Uo3cL4nrGOk&ab_channel=KRAZAM)
+
 
 
 
